@@ -1,6 +1,6 @@
-//Grabber IP
-//Coded by: Nyeh
-//https://github.com/Nyeh0001/grabber-ip
+// Grabber IP
+// Coded by: Nyeh
+// https://github.com/Nyeh0001/grabber-ip
 
 <?php
 
