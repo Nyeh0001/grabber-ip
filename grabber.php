@@ -8,7 +8,7 @@ $protocol = $_SERVER['SERVER_PROTOCOL'];
 $ip = $_SERVER['REMOTE_ADDR'];
 $port = $_SERVER['REMOTE_PORT'];
 $agent = $_SERVER['HTTP_USER_AGENT'];
-$ref = $_SERVER['HTTP_REFERER']
+$ref = $_SERVER['HTTP_REFERER'];
 $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']);
 
 // Print IP, Hostname, Port Number, User Agent and Referer To log.txt
