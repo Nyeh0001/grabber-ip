@@ -1,7 +1,3 @@
-// Grabber IP
-// Coded by: Nyeh
-// https://github.com/Nyeh0001/grabber-ip
-
 <?php
 
 $protocol = $_SERVER['SERVER_PROTOCOL'];
